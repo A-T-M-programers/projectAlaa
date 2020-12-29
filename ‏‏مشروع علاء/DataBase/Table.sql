@@ -13,7 +13,8 @@ create table [TBlStudents]
 [STPhoneNumber] int ,
 [STEmail] varchar (100) not null,
 [STPassword] varchar (max) not null,
-[STIDManeger] int foreign key references [TBLManeger]([MID]) on delete cascade
+[STIDManeger] int foreign key references [TBLManeger]([MID]) on delete cascade,
+[STNationality] varchar (35)
 )
 go
 create table [TBLManeger]
