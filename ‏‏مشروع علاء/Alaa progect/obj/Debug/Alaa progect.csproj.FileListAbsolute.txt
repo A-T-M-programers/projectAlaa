@@ -1,0 +1,38 @@
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\Alaa progect.dll.config
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\Alaa progect.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\Alaa progect.pdb
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\csc.exe
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\csc.rsp
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\csi.exe
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\csi.rsp
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\vbc.exe
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\obj\Debug\Alaa progect.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\obj\Debug\Alaa progect.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\obj\Debug\Alaa progect.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\obj\Debug\Alaa progect.dll
+C:\Users\Lenovo\source\repos\Alaa progect\Alaa progect\obj\Debug\Alaa progect.pdb
+C:\Users\The King Of World\Desktop\4_6003416960346360118\‏‏مشروع علاء - نسخة\Alaa progect\obj\Debug\Alaa progect.dll
+C:\Users\The King Of World\Desktop\4_6003416960346360118\‏‏مشروع علاء - نسخة\Alaa progect\obj\Debug\Alaa progect.pdb
