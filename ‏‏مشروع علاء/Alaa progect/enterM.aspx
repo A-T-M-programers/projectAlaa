@@ -89,25 +89,32 @@
     .btnforget:active {
         color:#f10b8a;
 }
+    .topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 </style>
 </head>
 <body>
+
     <form id="form1" runat="server">
+            <div class="topnav">
+  <a href="home.aspx">Home</a>
+
+    <a href="forum.aspx">Forum</a>
+</div>
         <div>
         </div>
           <fieldset name="f3" class="filebordr">
 
-    <div class="Maneger">
+    <div class="Maneger" >
       <abbr  title="Welcom you Admin" class="tit"> <img src="1609148152817.png" class="User" /></abbr>
-        
-        <asp:Label ID="Label1" runat="server" Text="ID Maneger :" CssClass="lbl"></asp:Label>&nbsp;&nbsp;
-        <asp:TextBox ID="TextBox1" runat="server" TextMode="Number" CssClass="txtid" placeholder="ID Maneger"></asp:TextBox><br />
                 
         <asp:Label ID="Label2" runat="server" Text="Name Maneger :" CssClass="lbl"></asp:Label>
-        <asp:TextBox ID="TextBox2" runat="server" CssClass="txtName" placeholder="Name Maneger"></asp:TextBox><br />
+        <asp:TextBox ID="TextBox2" runat="server" CssClass="txtName" placeholder="Name Maneger" ValidateRequestMode="Enabled"></asp:TextBox><br />
 
-        <asp:Label ID="Label3" runat="server" Text="ID Port :" CssClass="lbl"></asp:Label>&nbsp;&nbsp;&nbsp;
-        <asp:TextBox ID="TextBox3" runat="server" TextMode="Number" CssClass="txtId" placeholder="ID Port"></asp:TextBox><br />
+        <asp:Label ID="Label3" runat="server" Text="Name Sectionaty :" CssClass="lbl"></asp:Label>&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="TextBox3" runat="server" CssClass="txtName" placeholder="Name Sectionaty"></asp:TextBox><br />
 
         <asp:Label ID="Label4" runat="server" Text="Email :" CssClass="lbl"></asp:Label>&nbsp;&nbsp;&nbsp;
          <asp:TextBox ID="TextBox4" runat="server" TextMode="Email" CssClass="txtEmail" placeholder="Exsampl@gmail.com"></asp:TextBox><br />

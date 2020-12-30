@@ -1,0 +1,100 @@
+﻿    body {
+    
+    background:linear-gradient(#0e0c0c,#a704f3);
+    background-size:cover;
+    font-family:sans-serif;
+    background-repeat:no-repeat;
+   
+    }
+   .logo {
+    float:left;
+    }
+
+    nav {
+    float:right;
+    }
+
+    nav ul {
+    list-style:none;
+    margin-right:100px;
+    
+    }
+
+    nav ul li {
+    display:inline;
+    padding:10px 20px;
+    }
+    nav ul li.action {
+        border:1px solid #fff;
+        border-radius:2px
+    }
+    nav ul li:hover {
+        border:1px solid #fff;
+        border-radius:2px;
+        transition:0.30s;
+    }
+
+    nav ul li a {
+        text-decoration:none;
+        color:#fff;
+        font-size:16px;
+    }
+    .filebordr {
+     width:400px;
+    height:459px;
+    border-radius:20px;
+   padding:50px;
+    background:rgba(0,0,0,0.5);
+    border:none;
+    }
+.lbl {
+    font-family:Tahoma;
+    font-size:16px;
+    font-weight:400;
+    color:#5f4d4d;
+}
+.Year, select {
+    border:none;
+    border-bottom:3px solid #5f4d4d;
+    outline:none;
+    color:#5f4d4d;
+    font-size:16px;
+    background-color:transparent;
+     cursor:pointer;
+}
+.Year, select:hover {
+     border-bottom:none;
+    color:#1418dd;
+}
+.Year, option,optgroup {
+    background-color:black;
+}
+li {
+    border:1px solid black;
+    color:white;
+    width:150px;
+    border-right:20px;
+    border-left:100px;
+    border-radius:20px;
+    border-color:black;
+    background-color:black;
+
+}
+.btn {
+     border:none;
+     border-bottom:3px solid #5f4d4d;
+     outline:none;
+    color:#5f4d4d;
+    font-size:16px;
+    background-color:transparent;
+    cursor:pointer;
+}
+.btn:hover {
+    border-bottom:none;
+    color:#1418dd;
+}
+input {
+    border:1px solid #bf1818;
+    border-radius:20px;
+    background-color:#5f4d4d;
+}

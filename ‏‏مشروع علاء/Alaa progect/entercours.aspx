@@ -17,6 +17,10 @@
 body{background:#df9a9a}
 
 h1{  right:80px;}
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
 div {
   border-radius: 5px;
   background-color: #f2f2f2;
@@ -24,6 +28,11 @@ div {
 }</style>
 </head>
 <body>
+    <div class="topnav">
+  <a href="home.aspx">Home</a>
+
+    <a href="forum.aspx">Forum</a>
+</div>
     <form id="form1" runat="server">
         <div>
         </div>

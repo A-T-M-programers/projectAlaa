@@ -160,9 +160,10 @@ body {
         
 <h2>The Software</h2>
 <div id="example1">
-      <textarea name="styled-textarea" id="styled" onfocus="this.value=''; setbg('#e5fff3');"
+    <div style="width:40%;height:70%;">
+      <textarea  name="styled-textarea" style="width:35%;height:15%;resize:none;" id="styled" onfocus="this.value=''; setbg('#e5fff3');"
  onblur="setbg('white')">Enter your comment here...</textarea>  
-       
+       </div>
 
   <h2>Hello Software students</h2>
             
@@ -177,7 +178,7 @@ body {
 <h2>The Networking</h2>
 <div id="example2">
      
-      <textarea name="styled-textarea" id="styled1" onfocus="this.value=''; setbg('#e5fff3');"
+      <textarea name="styled-textarea" id="styled1" style="width:35%;height:15%;resize:none;" onfocus="this.value=''; setbg('#e5fff3');"
             onblur="setbg('white')">Enter your comment here...</textarea>  
    
   <h2>Hello Networking students</h2>
@@ -191,7 +192,7 @@ body {
 
 <h2>The Computers </h2>
 <div id="example3">
-     <textarea name="styled-textarea" id="styled2" onfocus="this.value=''; setbg('#e5fff3');"
+     <textarea name="styled-textarea" id="styled2" style="width:35%;height:15%;resize:none;" onfocus="this.value=''; setbg('#e5fff3');"
             onblur="setbg('white')">Enter your comment here...</textarea>  
   <h2>Hello Computers Students</h2>
  

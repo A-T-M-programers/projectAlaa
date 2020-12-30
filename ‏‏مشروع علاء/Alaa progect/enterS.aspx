@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="enterS.aspx.cs" Inherits="Alaa_progect.enterS" %>
 
-<!DOCTYPE html>
+<!DOCTYPE html >
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -113,9 +113,18 @@ select {
     {
         color:#f10b8a;
 }
+    .topnav {
+  overflow: hidden;
+  background-color: #333;
+}
     </style>
 </head>
 <body>
+    <div class="topnav">
+  <a href="home.aspx">Home</a>
+
+    <a href="forum.aspx">Forum</a>
+</div>
     <form id="form1" runat="server">
         <div>
         </div>
@@ -165,17 +174,19 @@ select {
 
             <br /><br />
              <asp:Label ID="Label10" runat="server" Text="Birthday"></asp:Label><br />
-            <asp:TextBox ID="TextBox10" runat="server" TextMode="Date"  CssClass="txtdate"></asp:TextBox>
-            <br />
+                    
+            <asp:TextBox ID="TextBox10" runat="server" TextMode="Date" CssClass="txtdate"></asp:TextBox>
+            
+                        <br />
             </div>
 
          <div class="option">
              <h3>Study_Year</h3>
              <asp:Label ID="Label1" runat="server" Text="First_year"></asp:Label>
-             <asp:RadioButton ID="RadioButton1" runat="server" />
+             <asp:RadioButton ID="RadioButton1" runat="server" GroupName="f1"/>
               <br />
              <asp:Label ID="Label2" runat="server" Text="Second_year"></asp:Label>
-             <asp:RadioButton ID="RadioButton2" runat="server" /><br />
+             <asp:RadioButton ID="RadioButton2" runat="server" GroupName="f1"/><br />
 
              <asp:Button ID="Button1" runat="server" Text="Sign In" CssClass="btnsubmit" />
               <asp:Button ID="Button2" runat="server" Text="Sign Up" CssClass="btnsubmit" />

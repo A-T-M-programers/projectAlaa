@@ -160,7 +160,7 @@ body {margin:0}
   height: 300px;
   perspective: 1000px;
   position:absolute;
-  right:1150px;
+  left:0px;
 }
 .flip-card-inner{
   position: relative;
@@ -203,7 +203,7 @@ body {margin:0}
   height: 300px;
   perspective: 1000px;
   position:absolute;
-   right:600px;
+   right:35%;
 }
 
 .flip-card-inner2{
@@ -394,13 +394,7 @@ body {font-family: "Lato", sans-serif;}
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-        </div>
-          <div>
-        </div>
-    <h1><b><i>Technical Institute of Computer Damascus</i></b></h1>
-    
-        
+    <h1><b><i>Technical Institute of Computer Damascus</i></b></h1>    
 <div class="topnav" id="myTopnav">
   <a href="#home" class="active">Menu</a>
 
@@ -415,7 +409,7 @@ body {font-family: "Lato", sans-serif;}
     </div>
   </div> 
     <a href="login.aspx">Log in</a>
-  <a href="#about">About</a>
+  <a href="#flip">About</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 
       <input id="search" type="text" placeholder="Search.." name="search" />

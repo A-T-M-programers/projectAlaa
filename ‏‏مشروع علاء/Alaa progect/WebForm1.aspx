@@ -8,13 +8,13 @@
     <link href="StyleSheet1.css" rel="stylesheet" />
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form1" runat="server" style="position:relative;left:35%">
     <div class="logo">
         <nav>
     <ul>
-        <li class="action"><a href="#">Home</a></li>
-        <li><a href="#"> Fourm </a></li>
-        <li><a href="#"> Login Student </a></li>
+        <li class="action"><a href="home.aspx">Home</a></li>
+        <li><a href="forum.aspx"> Fourm </a></li>
+        <li><a href="login.aspx"> Login Student </a></li>
         <li><a href="#"> First yare </a></li><br />
     </ul>
             </nav>

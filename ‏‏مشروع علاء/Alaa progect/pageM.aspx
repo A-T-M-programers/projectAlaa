@@ -89,16 +89,13 @@ margin-left:80px;
     </style>
 </head>
 <body>
-    <form id="form1" runat="server">
-        <div>
-        </div>
-        
+    <form id="form1" runat="server">      
       <h1> الصفحة الادارية للمعهد التقاني للحاسوب</h1>
         <img   class="imgcircal" src="images.jpg" />
 <div class="topnav">
-  <a href="WebForm1.aspx">Home</a>
+  <a href="home.aspx">Home</a>
 
-    <a href="WebForm3.aspx">Forum</a>
+    <a href="forum.aspx">Forum</a>
 </div>
         <div class="cards">
        
